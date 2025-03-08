@@ -1,5 +1,4 @@
 crewai
-crewai.project
 python-dotenv
 crewai_tools
 streamlit
